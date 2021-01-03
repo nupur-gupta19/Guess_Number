@@ -1,0 +1,67 @@
+body {
+
+  font-family: 'Crimson Text', sans-serif;
+  background-image:url("bg.jpg");
+  background-repeat: no-repeat;
+   background-size: cover;
+    background-attachment: fixed
+
+}
+
+p {
+  color: #204051;
+  font-size: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 4rem;
+  color: black;
+  margin-top: 3%;
+  text-align: center;
+  font-weight: bolder;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #204051;
+}
+.input-group{
+  height: 70px;
+}
+.guessSubmit {
+
+  background-color: #204051;
+  color: #fff;
+  border-radius: 50px;
+}
+
+.lastResult {
+  color: black;
+  padding: 7px;
+}
+
+.guesses {
+  color: black;
+  padding: 7px;
+}
+.form-control{
+
+  font-size:1.5rem;
+  height: 70px;
+}
+.n {
+  font-size: 1.8rem;
+  margin-top: 4%;
+  margin-bottom: 5%;
+  color:#204051 ;
+}
+
+.guessField {
+  color: #204051;
+
+}
